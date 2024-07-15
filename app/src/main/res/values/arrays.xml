@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="restart_options_array">
+        <item>Restart Quiz</item>
+        <item>End</item>
+    </string-array>
+</resources>
